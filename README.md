@@ -2,7 +2,7 @@
 
 # ¡Hola!  Soy Sergio 
 
-###  Estudiante de Desarrollo de Aplicaciones Web | 💻 Desarrollador Web Junior
+###  Estudiante de Desarrollo de Aplicaciones Web | Desarrollador Web Junior
 
 </div>
 
@@ -14,14 +14,14 @@ Estudiante de **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** en T
 
 Empecé desde cero en 2024 sin conocimientos de programación. Un año después, soy capaz de crear proyectos web completos desde cero.
 
-- 🌱 Actualmente aprendiendo: **JavaScript avanzado**, **React** y **Spring Boot**
-- 🎯 Objetivo: Desarrollador **Fullstack** especializado en **Backend** y **Ciberseguridad**
-- 🎮 Pasión: **Gaming retro** y la cultura de los 90
-- 💼 Buscando: Prácticas profesionales para 2026
+-  Actualmente aprendiendo: **JavaScript avanzado**, **React** y **Spring Boot**
+-  Objetivo: Desarrollador **Fullstack** especializado en **Backend** y **Ciberseguridad**
+-  Pasión: **Gaming retro** y la cultura de los 90
+-  Buscando: Prácticas profesionales para 2026
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode" />
@@ -34,9 +34,9 @@ Empecé desde cero en 2024 sin conocimientos de programación. Un año después,
 
 ---
 
-## 📂 Proyecto Destacado
+##  Proyecto Destacado
 
-### 🎮 [Bit-Love](https://github.com/tu-usuario/bit-love)
+###  [Bit-Love](https://github.com/tu-usuario/bit-love)
 
 Portal web dedicado a la cultura del **gaming retro** - Proyecto Intermodular 1º DAW
 
@@ -53,16 +53,16 @@ Portal web dedicado a la cultura del **gaming retro** - Proyecto Intermodular 1�
 
 ---
 
-## 🎯 Aprendiendo Actualmente
+##  Aprendiendo Actualmente
 
-- 📚 JavaScript avanzado (ES6+)
-- ⚛️ React.js
-- 🍃 Spring Boot
-- 🔒 Fundamentos de ciberseguridad
+-  JavaScript avanzado (ES6+)
+-  React.js
+-  Spring Boot
+-  Fundamentos de ciberseguridad
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 <p align="center">
   <a href="mailto:Gen.dev.sergio@gmail.com.com">
@@ -77,6 +77,6 @@ Portal web dedicado a la cultura del **gaming retro** - Proyecto Intermodular 1�
 
 <div align="center">
 
-### 💡 *"Empecé sin saber nada. Ahora sé que puedo aprender cualquier cosa."*
+###  *"Empecé sin saber nada. Ahora sé que puedo aprender cualquier cosa."*
 
 </div>
