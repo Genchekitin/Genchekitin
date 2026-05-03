@@ -1,14 +1,14 @@
 <div align="center">
 
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola!  Soy Sergio 
 
-### 🎓 Estudiante de Desarrollo de Aplicaciones Web | 💻 Desarrollador Web Junior
+###  Estudiante de Desarrollo de Aplicaciones Web | 💻 Desarrollador Web Junior
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+##  Sobre mí
 
 Estudiante de **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** en The Power Business School.
 
@@ -41,11 +41,11 @@ Empecé desde cero en 2024 sin conocimientos de programación. Un año después,
 Portal web dedicado a la cultura del **gaming retro** - Proyecto Intermodular 1º DAW
 
 **Características:**
-- ✅ Diseño responsive completo (móvil, tablet, escritorio)
-- ✅ Catálogo de productos gaming retro
-- ✅ Base de datos relacional normalizada
-- ✅ Aplicación Java con conexión JDBC
-- ✅ Sistema CRUD completo
+-  Diseño responsive completo (móvil, tablet, escritorio)
+-  Catálogo de productos gaming retro
+-  Base de datos relacional normalizada
+-  Aplicación Java con conexión JDBC
+-  Sistema CRUD completo
 
 **Stack:** HTML5, CSS3, JavaScript, Java, MySQL
 
@@ -90,7 +90,5 @@ Portal web dedicado a la cultura del **gaming retro** - Proyecto Intermodular 1�
 <div align="center">
 
 ### 💡 *"Empecé sin saber nada. Ahora sé que puedo aprender cualquier cosa."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=TU-USUARIO&color=blueviolet&style=flat-square)
 
 </div>
