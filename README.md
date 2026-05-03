@@ -53,18 +53,6 @@ Portal web dedicado a la cultura del **gaming retro** - Proyecto Intermodular 1�
 
 ---
 
-## 📊 Estadísticas GitHub
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Aprendiendo Actualmente
 
 - 📚 JavaScript avanzado (ES6+)
