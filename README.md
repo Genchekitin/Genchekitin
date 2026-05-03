@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Sergio 
 
-## 🚀 Sobre mí
+##  Sobre mí
 
 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en The Power - PROMETEO.
 
@@ -10,7 +10,7 @@ Apasionado por la programación, el diseño web y el gaming retro. Empecé desde
 
 ---
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,7 +27,7 @@ Apasionado por la programación, el diseño web y el gaming retro. Empecé desde
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 
-## 📂 Proyecto destacado
+##  Proyecto destacado
 
 ### [Bit-Love](https://github.com/tu-usuario/bit-love)
 Portal web de gaming retro desarrollado como proyecto intermodular de 1º DAW.
@@ -36,7 +36,7 @@ Portal web de gaming retro desarrollado como proyecto intermodular de 1º DAW.
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 - 📧 Email: Gen.dev.sergio@gmail.com
 
