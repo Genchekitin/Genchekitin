@@ -9,17 +9,10 @@ Apasionado por la programación, el diseño web y el gaming retro. Empecé desde
 **Objetivo:** Desarrollador fullstack especializado en backend y ciberseguridad.
 
 ---
-
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode" />
 </p>
 
 ##  Proyecto destacado
